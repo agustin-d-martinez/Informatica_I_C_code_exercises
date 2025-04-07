@@ -35,11 +35,11 @@ Si se desea abrir aplicaciones visuales desde linux, se debe crear un servidor X
 
 ```Multiple Windows -> next -> Start no client -> next -> Chack Disable access control -> next```
 
-![foto 2](Foto2.png)
+![foto 2](Foto2.PNG)
 
 4. Ir a la carpeta ```Linux->Home->User``` y abrir el archivo ```.bashrc```
 
-![foto 3](Foto3.png)
+![foto 3](Foto3.PNG)
 
 5. agregar al final las siguientes lineas:
 
